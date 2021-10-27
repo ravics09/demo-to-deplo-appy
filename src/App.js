@@ -5,9 +5,9 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>This app will deploy</h1>
         <img src={logo} className="App-logo" alt="logo" />
-        
+        <h1>This app is deployed now on Netlify</h1>
+        <p>Its live now</p>
       </header>
     </div>
   );
